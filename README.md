@@ -5,7 +5,7 @@
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
   Hi, I'm <a href="https://nathnael-getachew.vercel.app/"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Nati's GitHub Avatar" width="60px"/> Nathnael</a>!
-  <img align="right" src="https://komarev.com/ghpvc/?username=celadaniel" alt="GitHub profile views counter">
+  <img align="right" src="https://komarev.com/ghpvc/?username=SKAT-16" alt="GitHub profile views counter">
 </h1>
 
 <div>
